@@ -28,7 +28,7 @@ _   _    _    _   _ _   _ __  __    _    _   _
 print(Style.BRIGHT)
 print(Fore.GREEN+auth)
 # define the file paths for each option
-option_1_file = "sqlmap-master/sqlmap.py"
+option_1_file = "sqlmap.py"
 option_2_file = "XSStrike-master/xsstrike.py"
 option_3_file = "PwnXSS/pwnxss.py"
 option_4_file = "admin-finder-master/admin-finder.py"
