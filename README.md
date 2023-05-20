@@ -63,5 +63,6 @@ admin Finder = Not Uploaded Yet!
 Kutumb Url Extractor = https://github.com/TROEXHACK-SECURITY/Kutumb-Url-Extractor
 
 ![Troexhack_Security-removebg-preview](https://github.com/TROEXHACK-SECURITY/Hanuman_Framwork/assets/85324003/d05da3f5-39a9-48e8-8c06-61c41cb9c685)
-![Shell](https://github.com/TROEXHACK-SECURITY/Hanuman-Framwork/assets/85324003/135e6815-f0a4-4385-a8dc-69ddbbfa8008)
+![Shell-removebg-preview](https://github.com/TROEXHACK-SECURITY/Hanuman-Framwork/assets/85324003/36d60a0e-abde-410f-bc32-9b0148195e26)
+
 
