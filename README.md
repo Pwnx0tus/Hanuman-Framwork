@@ -1,4 +1,5 @@
 # Hanuman_Framwork
+![Mozilla Add-on](https://img.shields.io/amo/users/Trojan?style=plastic)
 Hello Everyone ! This Is Hanuman Framwork Created By Troexhack Security & Shell Squad. This is Awosome tool For Bug Hunters In This Tool You Will Get These Tool Inbuild
 1.   What You Get In This Tool
      - Url Extractor
