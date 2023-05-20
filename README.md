@@ -1,5 +1,5 @@
 # Hanuman_Framwork
-![Mozilla Add-on](https://img.shields.io/amo/users/Trojan?style=plastic)![Bower](https://img.shields.io/bower/l/o?style=plastic)
+![Mozilla Add-on](https://img.shields.io/amo/users/Trojan?style=plastic)   ![Bower](https://img.shields.io/bower/l/o?style=plastic)  ![Mozilla Add-on](https://img.shields.io/amo/stars/rat?style=plastic)  ![Github Gist stars](https://img.shields.io/github/gist/stars/47a4d00457a92aa426dbd48a18776322?style=social)   ![Mozilla Add-on](https://img.shields.io/amo/v/trojan?style=plastic)   ![PingPong status](https://img.shields.io/pingpong/status/sp_2e80bc00b6054faeb2b87e2464be337e)     ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)   
 
 
 Hello Everyone ! This Is Hanuman Framwork Created By Troexhack Security & Shell Squad. This is Awosome tool For Bug Hunters In This Tool You Will Get These Tool Inbuild
