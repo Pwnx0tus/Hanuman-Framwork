@@ -1,7 +1,5 @@
 # Hanuman_Framwork
-![Mozilla Add-on](https://img.shields.io/amo/users/Trojan?style=plastic)
-.. image:: https://img.shields.io/bower/l/o?style=plastic
-   :alt: Bower
+![Mozilla Add-on](https://img.shields.io/amo/users/Trojan?style=plastic)![Bower](https://img.shields.io/bower/l/o?style=plastic)
 
 
 Hello Everyone ! This Is Hanuman Framwork Created By Troexhack Security & Shell Squad. This is Awosome tool For Bug Hunters In This Tool You Will Get These Tool Inbuild
