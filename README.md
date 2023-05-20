@@ -36,8 +36,11 @@ Evrything is in this tool and we will also try to add some more Tools.
 
 # Download 
 `apt update && apt upgrade`
+
 `git clone https://github.com/TROEXHACK-SECURITY/Hanuman_Framwork.git`
+
 `cd Hanuman_Framwork`
+
 `python3 RAM.py`
 
 ### If You Got Worng Installation Error On Sql Map Then Download It From https://github.com/sqlmapproject/sqlmap
