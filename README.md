@@ -1,10 +1,11 @@
 # Hanuman_Framwork
 Hello Everyone ! This Is Hanuman Framwork Created By Troexhack Security & Shell Squad. This is Awosome tool For Bug Hunters In This Tool You Will Get These Tool Inbuild
->Url Extractor
->Admin Finder
->Sqlmap
->PwnXss
->Xss Strick 
+1. What You Get In This Tool
+-Url Extractor
+-Admin Finder
+-Sqlmap
+-PwnXss
+-Xss Strick 
 ## Image 1
 ![Screenshot from 2023-05-20 12-31-26](https://github.com/TROEXHACK-SECURITY/Hanuman_Framwork/assets/85324003/169f7646-0cf5-4110-8b8b-a5ddc832a686)
 
