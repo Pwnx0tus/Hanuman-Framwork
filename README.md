@@ -42,7 +42,7 @@ Evrything is in this tool and we will also try to add some more Tools.
 
 `git clone https://github.com/TROEXHACK-SECURITY/Hanuman_Framwork.git`
 
-`cd Hanuman Framwork`
+`cd Hanuman-Framwork`
 
 `python3 RAM.py`
 
