@@ -35,3 +35,21 @@ Hello Everyone ! This Is Hanuman Framwork Created By Troexhack Security & Shell 
 Evrything is in this tool and we will also try to add some more Tools.
 
 # Download 
+`apt update && apt upgrade`
+`git clone https://github.com/TROEXHACK-SECURITY/Hanuman_Framwork.git`
+`cd Hanuman_Framwork`
+`python3 RAM.py`
+
+### If You Got Worng Installation Error On Sql Map Then Download It From https://github.com/sqlmapproject/sqlmap
+
+There We Be Go Your Tool IS Ready To Go Select Option And Start Using It
+
+## Resources
+
+Sql Map = https://github.com/sqlmapproject/sqlmap
+PwnXSS = https://github.com/pwn0sec/PwnXSS
+Xss Strike = https://github.com/s0md3v/XSStrike
+admin Finder = Not Uploaded Yet!
+Kutumb Url Extractor = https://github.com/TROEXHACK-SECURITY/Kutumb-Url-Extractor
+
+![Troexhack_Security-removebg-preview](https://github.com/TROEXHACK-SECURITY/Hanuman_Framwork/assets/85324003/d05da3f5-39a9-48e8-8c06-61c41cb9c685)
